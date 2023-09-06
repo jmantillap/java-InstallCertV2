@@ -1,0 +1,5 @@
+repo.maven.apache.org:443
+ossindex.sonatype.org:443
+sqs.us-east-1.amazonaws.com:443
+dynamodb.us-east-1.amazonaws.com:443
+us-east-1.console.aws.amazon.com:443
